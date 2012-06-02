@@ -1,0 +1,50 @@
+G N M S
+N o i u
+M t c r
+S   r f
+    o a
+    s c
+    o e
+    f
+    t
+
+Larry Price
+Jason Rice
+Eric Ellett
+Dan Grum
+
+1. Description
+GNMS was a multi-touch surface project created during Purdue's ECE Senior Design during Spring 2012. This surface used frustrated total internal reflection (FTIR) technology. This software was not stand-alone: reacTIVision is required to interface with a camera, and the TUIO and SDL C++ libraries are required for the code to work. This software was designed to be living code; instead of being installed to specific directories on the processor, it should be compiled as necessary.
+
+2. Bugs and Suggestions
+At this point, bugs found in the project will likely not be addressed by the authors. Email larry.price.dev@gmail.com if you think we might be interested. Feel free to have a go at it yourself.
+
+3. Copyright
+Copyright Larry Price <larry.price.dev@gmail.com>, 2012 
+This program is free software: you can redistribute it
+and/or modify it under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+4. Music and Sounds
+The music and sounds in this project are all licensed under the Creative Commons. Some of these pieces require attribution. All songs by Kevin MacLeod were found at his brilliant site http://incompetech.com/. Below is a list of all applications and their attributions:
+GNMS Air Hockey:  All sound effects performed by Larry Price
+GNMS Calibrate:   All sound effects found on FreeSound.com
+GNMS Matching:    Intractable       by Kevin MacLeod
+GNMS Paint:       Wallpaper         by Kevin MacLeod
+     	          Airport Lounge    by Kevin MacLeod
+	          Modern Jazz Samba by Kevin MacLeod
+GNMS Roulette:    All sound effects found on FreeSound.com
+GNMS Tic-Tac-Toe: Artifact          by Kevin MacLeod
+
+5. SDL Source
+Many of the games created were developed using tutorials found at: 
+http://sdltutorials.com
